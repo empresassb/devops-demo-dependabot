@@ -1,3 +1,9 @@
+permissions:
+  contents: read
+  packages: write
+  id-token: write
+  actions: read
+
 name: Android CI
 
 on:
